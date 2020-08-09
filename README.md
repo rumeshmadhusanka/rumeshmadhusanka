@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Rumesh Madhusanka 
+I'm an undergraduate in Computer Science and Engineering, university of Moratuwa, Sri Lanka. 🇱🇰️
+
 
 <!--
 **rumeshmadhusanka/rumeshmadhusanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
