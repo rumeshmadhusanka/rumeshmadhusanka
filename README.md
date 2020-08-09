@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Rumesh Madhusanka 
-I'm an undergraduate in Computer Science and Engineering, university of Moratuwa, Sri Lanka. 🇱🇰️
+Undergraduate | Computer Science and Engineering
+🇱🇰️
+Interested in 
+- Microservices
+- Event driven Architecture
+- REST APIs
+
 
 
 <!--
