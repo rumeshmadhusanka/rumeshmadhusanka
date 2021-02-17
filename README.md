@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋 I'm Rumesh Madhusanka 
 Undergraduate | Computer Science and Engineering
 
@@ -7,7 +8,7 @@ Interested in
 - Microservices
 - Event driven Architecture
 - REST APIs
-
+-->
 
 
 <!--
