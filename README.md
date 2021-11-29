@@ -1,11 +1,11 @@
 
-<!-- ### Hi 👋 I'm Rumesh  
+### Hi 👋 I'm Rumesh  
 Undergraduate | Computer Science and Engineering
 
 Interested in 
 - Backend Development
 - DevOps
-- Machine Learning -->
+- Machine Learning
 
 
 
